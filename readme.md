@@ -6,3 +6,5 @@
 ##Cuarta línea Agregada
 
 ### Quinta línea.
+
+#### Sexta línea, para el reset mixed.
